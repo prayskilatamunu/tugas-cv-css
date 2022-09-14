@@ -1,8 +1,7 @@
-title{
-    text-transform:uppercase;
-  }
   body{
     font-size:12px;
+    background-color: lightgrey;
+    background-image: url(gambar/old_moon.png);
   }
   h1{
     font-family:"verdana";
@@ -42,11 +41,11 @@ title{
     color:brown;
   }
   .portopolio:hover{
-    color:green;
+    color:orange;
     font-size:15px;
   }
   .portopolio:active{
-    color:purple;
+    color:white;
   }
   .portopolio:visited{
     color:yellow;
